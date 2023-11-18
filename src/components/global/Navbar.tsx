@@ -37,6 +37,7 @@ export default function Navbar() {
           <Image src={Logo} width={25} height={25} alt="logo" />
         </Link>
 
+      
         <nav className={isOpen ? `${"fixed block z-20"}` : `${"hidden"}`}>
           <div className=" fixed inset-y-0 right-0 w-1/2 bg-white z-0 overflow-y-auto">
             <div className="text-black  ">
