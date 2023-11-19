@@ -133,7 +133,7 @@ const Contact = () => {
                 <HiMail size={40} />{" "}
               </i>
               <p className="hover:text-purple-400 hover:underline cursor-pointer">
-                <strong>danishrazzaq@gamil.com</strong>{" "}
+                <strong>rizwanrizrose@gamil.com</strong>{" "}
               </p>
             </li>
           </ul>

@@ -11,7 +11,7 @@ export default function Footer() {
             href="https://github.com/Evavic44/sanity-nextjs-site"
             target="_blank"
             rel="noreferrer noopener">
-            Prepared by <span className="text-green-400">Victor Eke</span>
+            Prepared by <span className="text-green-400">Muhammad Rizwan Mansha</span>
           </a>
         </small>
       </div>
